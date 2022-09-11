@@ -7,7 +7,6 @@ This code book summarizes the resulting data fields in `tidy.txt`.
 -   `subject` - The ID of the test subject
 -   `activity` - The type of activity performed for the corresponding measurements taken
 
-------------------------------------------------------------------------
 
 ## Measurements
 
@@ -91,7 +90,6 @@ This code book summarizes the resulting data fields in `tidy.txt`.
 -   `fBodyBodyGyroJerkMagStd`
 -   `fBodyBodyGyroJerkMagMeanFreq`
 
-------------------------------------------------------------------------
 
 ## Activity Labels
 
